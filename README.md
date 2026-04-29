@@ -140,8 +140,8 @@ data-analyzer/
 **Nilvan Filipe**
 Analista de Dados em formação | Power BI · DAX · Python · SQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilvan%20Filipe-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-@seu--usuario-181717?style=flat-square&logo=github)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilvan%20Filipe-0A66C2?style=flat-square&logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/nilvan-filipe/))
+[![GitHub](https://img.shields.io/badge/GitHub-@seu--usuario-181717?style=flat-square&logo=github)]([https://github.com/seu-usuario](https://github.com/nilvanfelipe))
 
 ---
 
